@@ -1,4 +1,4 @@
-[![Build Status](https://www.bitrise.io/app/75825a7793724510/status.svg?token=P62K6DAfihPmz0OJwx-lEg)](https://www.bitrise.io/app/75825a7793724510)
+[![Build Status](https://app.bitrise.io/app/c2922e05f26248ac/status.svg?token=ov17N8VSCTREU6oRTmv1GQ&branch=master)](https://app.bitrise.io/app/c2922e05f26248ac)
 
 Xamarin.iOS.NonStoryboard
 ===

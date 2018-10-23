@@ -33,6 +33,9 @@ Thumbs.db
 *.dmg
 *.app
 
+# vs
+.vs
+
 # resharper
 *_Resharper.*
 *.Resharper
